@@ -1,0 +1,16 @@
+{
+    "name": "easonshaw/composer3",
+    "description": "composer3",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^1.23"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "easonshaw",
+            "email": "eason.dep@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
